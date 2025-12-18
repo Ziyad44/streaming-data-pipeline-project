@@ -148,9 +148,4 @@ docker compose up -d
 - Jupyter: http://localhost:8888
 - Cassandra (CQL): `localhost:9042`
 
-## 🙋‍♂️ Contact
-
-Developed by **Supakun Thata**  
-📧 Email: supakunt.thata@gmail.com  
-🔗 GitHub: [SupakunZ](https://github.com/SupakunZ)
 
