@@ -140,12 +140,12 @@ It covers orchestration (Airflow), streaming processing (Spark Structured Stream
 ```bash
 git clone https://github.com/Ziyad44/streaming-data-pipeline-project.git
 cd streaming-data-pipeline-project
-
-### 2️⃣ Start the services :
+```
+### 3️⃣ Start the Pipeline
 ```bash
 docker compose up -d
-```
 
+```
 3. Start the services :
 
 - Airflow: http://127.0.0.1:8080
