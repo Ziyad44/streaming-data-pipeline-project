@@ -153,4 +153,12 @@ docker compose up -d
 - Jupyter: http://127.0.0.1:8888
 
 
+📚 Attribution
 
+This project is based on an open-source streaming architecture, rebuilt and modified independently for educational purposes.
+All components were installed, configured, and tested in a local Docker environment.
+
+👤 Author
+
+Ziyad Alamri - 202171550
+ICS 474 – Big Data Analytics
