@@ -128,24 +128,29 @@ It covers orchestration (Airflow), streaming processing (Spark Structured Stream
   - **Looker Studio** (optional dashboard, currently using exported data for demo purposes)
 
 
-## 🚀 Setup & Execution
+## ▶️ How to Run the Project
 
-1. Clone this repository :
+### 1️⃣ Prerequisites
+- Docker Desktop
+- Git
 
+---
+
+### 2️⃣ Clone the Repository
 ```bash
-git clone https://github.com/supakunz/Streaming-Data-Pipeline.git
-```
+git clone https://github.com/Ziyad44/streaming-data-pipeline-project.git
+cd streaming-data-pipeline-project
 
-2. Start the services :
+### 2️⃣ Start the services :
 ```bash
 docker compose up -d
 ```
 
 3. Start the services :
 
-- Airflow: http://localhost:8080
-- Kafka Control Center: http://localhost:9021
-- Jupyter: http://localhost:8888
-- Cassandra (CQL): `localhost:9042`
+- Airflow: http://127.0.0.1:8080
+- Kafka Control Center: http://127.0.0.1:9021/clusters
+- Jupyter: http://127.0.0.1:8888
+
 
 
