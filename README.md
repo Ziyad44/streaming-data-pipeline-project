@@ -146,7 +146,7 @@ cd streaming-data-pipeline-project
 docker compose up -d
 
 ```
-3. Start the services :
+4️⃣ Access Services
 
 - Airflow: http://127.0.0.1:8080
 - Kafka Control Center: http://127.0.0.1:9021/clusters
