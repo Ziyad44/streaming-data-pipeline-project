@@ -125,7 +125,6 @@ It covers orchestration (Airflow), streaming processing (Spark Structured Stream
 
 * For visualization and exploration, data from Cassandra can be accessed via tools such as:
   - **Jupyter Notebook** (interactive analysis)
-  - **Looker Studio** (optional dashboard, currently using exported data for demo purposes)
 
 
 ## ▶️ How to Run the Project
